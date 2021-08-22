@@ -4,7 +4,7 @@ Hi! I'm a software developer that loves mobile and backend. Currently i'm workin
 
 Learn more about me on my social platforms:
 
-<a href="https://www.linkedin.com/in/hhldiniz/">
+<a href="https://www.linkedin.com/in/hhldiniz/" target="_blank">
 <img src="linkedin_logo_36px.png"
      alt="Linkedin"
      style="float: left; margin-right: 10px; width: 36px"/>
