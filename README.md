@@ -1,6 +1,6 @@
 ### Hugo Diniz 
 
-Hi! I'm a software developer that loves mobile and backend. Currently i'm working with many different projects from mobile apps to .NET libraries and Java backend. 
+Hi! I'm a software developer that loves mobile and backend.
 
 Learn more about me on my social platforms:
 
